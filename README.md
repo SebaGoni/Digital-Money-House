@@ -51,6 +51,9 @@ El lenguaje de programacion es Java con Springboot y una arquitectura de microse
 > 3. Crear la base de datos Mysql desde el archivo docker-compose que esta en el directorio raiz (se debe tener docker instalado)
 > 3. Correr cada microservicio en el siguiente orden: eureka-server, config-server, gateway, users-service, accounts-service
 
+> [!NOTE]
+> # Video presentacion
+https://youtu.be/ynSnZCV2b4E
 
 > [!NOTE]
 > # Documentacion (SWAGGER)
