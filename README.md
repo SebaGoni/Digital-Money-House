@@ -54,6 +54,7 @@ El lenguaje de programacion es Java con Springboot y una arquitectura de microse
 > [!NOTE]
 > # Video presentacion
 https://youtu.be/ynSnZCV2b4E
+[![Video presentacion del proyecto](https://res.cloudinary.com/dbguimlv8/image/upload/v1729521527/presentacion_syqrl3.jpg)]([https://youtu.be/ynSnZCV2b4E])
 
 > [!NOTE]
 > # Documentacion (SWAGGER)
