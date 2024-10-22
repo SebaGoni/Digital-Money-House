@@ -88,6 +88,12 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vQvakE-DpJwgJxJVJXQ2IVh9RE_bm5vW
 # Testing Exploratorio
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQWNB4z3GBbumKKREOA1969XGaINrNy_aAEHgExu4O4v6nI-lUSvXdN6wD8OlCUmIBy5iG_5qOlf7eq/pubhtml
 
+> [!NOTE]
+# QA Sign off
+https://docs.google.com/document/d/e/2PACX-1vTwCcR2815HXulG9w2fkxkHLhPj9M7whPjRyHhFC97uoeRhGBAm2AtpeVykODk--kb5Rt7fudZg2m5h/pub
+
+
+
 ## MUCHAS GRACIAS! :smile:
 
 
