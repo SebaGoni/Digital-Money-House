@@ -73,6 +73,10 @@ https://winter-crater-900915.postman.co/workspace/Digital-Money-House~9c6b22af-6
 > ![Estructura del proyecto](https://res.cloudinary.com/dbguimlv8/image/upload/v1729350702/whn9bhfuyrqlheohwe20.jpg)
 
 > [!NOTE]
+> # Testing Kick Off
+https://docs.google.com/document/d/e/2PACX-1vRPGp2omCvcFaL75DRpgmVCA95vu5G2Z4m48kdGxicE_0nNGBhaZHJsv9jOpIjFhdV_BQgvsGRPeq6h/pub
+
+> [!NOTE]
 > # Testing Manual
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQvakE-DpJwgJxJVJXQ2IVh9RE_bm5vWAqPP2DmGk_Em059av1O5lwgbTbpjbor9ZFZ6cubM9Ns0MEa/pubhtml
 
