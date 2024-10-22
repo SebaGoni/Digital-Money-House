@@ -65,6 +65,10 @@ El lenguaje de programacion es Java con Springboot y una arquitectura de microse
 > http://localhost:8085/swagger-ui/index.html#/
 
 > [!NOTE]
+> # Documentacion (POSTMAN)
+https://winter-crater-900915.postman.co/workspace/Digital-Money-House~9c6b22af-6a59-453d-b870-2288c628facc/folder/24678576-bf1a04d9-5bd6-4ef6-93b5-833ca1889494?action=share&creator=24678576&ctx=documentation
+
+> [!NOTE]
 > # Estructura del proyecto
 > ![Estructura del proyecto](https://res.cloudinary.com/dbguimlv8/image/upload/v1729350702/whn9bhfuyrqlheohwe20.jpg)
 
