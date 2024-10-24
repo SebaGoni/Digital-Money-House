@@ -82,7 +82,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vQvakE-DpJwgJxJVJXQ2IVh9RE_bm5vW
 
 > [!NOTE]
 # Testing Automatizado
-[https://github.com/SebaGoni/automated-tests.git](https://github.com/SebaGoni/automated-testing-DMH.git)
+https://github.com/SebaGoni/automated-tests.git](https://github.com/SebaGoni/automated-testing-DMH.git
 
 > [!NOTE]
 # Testing Exploratorio
